@@ -2,64 +2,64 @@
 	"android": {
 		"portrait": [
 			{
-				"name": "drawable-ldpi-port/splash.png",
+				"name": "drawable-port-ldpi/splash.png",
 				"width": 200,
 				"height": 320
 			},
 			{
-				"name": "drawable-mdpi-port/splash.png",
+				"name": "drawable-port-mdpi/splash.png",
 				"width": 320,
 				"height": 480
 			},
 			{
-				"name": "drawable-hdpi-port/splash.png",
+				"name": "drawable-port-hdpi/splash.png",
 				"width": 480,
 				"height": 800
 			},
 			{
-				"name": "drawable-xhdpi-port/splash.png",
+				"name": "drawable-port-xhdpi/splash.png",
 				"width": 720,
 				"height": 1280
 			},
 			{
-				"name": "drawable-xxhdpi-port/splash.png",
+				"name": "drawable-port-xxhdpi/splash.png",
 				"width": 960,
 				"height": 1600
 			},
 			{
-				"name": "drawable-xxxhdpi-port/splash.png",
+				"name": "drawable-port-xxxhdpi/splash.png",
 				"width": 1280,
 				"height": 1920
 			}
 		],
 		"landscape": [
 			{
-				"name": "drawable-ldpi-land/splash.png",
+				"name": "drawable-land-ldpi/splash.png",
 				"width": 320,
 				"height": 200
 			},
 			{
-				"name": "drawable-mdpi-land/splash.png",
+				"name": "drawable-land-mdpi/splash.png",
 				"width": 480,
 				"height": 320
 			},
 			{
-				"name": "drawable-hdpi-land/splash.png",
+				"name": "drawable-land-hdpi/splash.png",
 				"width": 800,
 				"height": 480
 			},
 			{
-				"name": "drawable-xhdpi-land/splash.png",
+				"name": "drawable-land-xhdpi/splash.png",
 				"width": 1280,
 				"height": 720
 			},
 			{
-				"name": "drawable-xxhdpi-land/splash.png",
+				"name": "drawable-land-xxhdpi/splash.png",
 				"width": 1600,
 				"height": 960
 			},
 			{
-				"name": "drawable-xxxhdpi-land/splash.png",
+				"name": "drawable-land-xxxhdpi/splash.png",
 				"width": 1920,
 				"height": 1280
 			}
